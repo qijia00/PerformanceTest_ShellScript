@@ -2,7 +2,7 @@
 Sample Shell Script that I created to test device performance. Dependencies have been removed to protect privacy.
 
 # How to execute
-1, From Guru, find the ECU under test, right click to open SFTP to ECU.
+1, From Guru (a customized ECU tool), find the ECU under test, right click to open SFTP to ECU.
 
 2, In WinSCP, create "/firmware/test" folder, copy the following files/folder to it:
 "ori_random_files" folder
